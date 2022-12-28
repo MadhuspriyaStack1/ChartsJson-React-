@@ -1,0 +1,153 @@
+{
+    "date": "27/12/2022",
+    "datatype": "monthly",
+    "department": [
+      {
+              "department" : "beer",
+              "daily": 20,
+              "weekly": 240,
+              "Monthly": 100
+      },
+      {
+             "department" : "beverages non alc",
+              "daily": 10,
+              "weekly": 250,
+              "Monthly": 500
+      },
+      {
+              "department" : "bubbly",
+              "daily": 15,
+              "weekly": 50,
+              "Monthly": 600
+      },
+      {
+              "department" : "gift cards",
+              "daily": 25,
+              "weekly": 200,
+              "Monthly": 1000
+       }
+  ],
+    "category": [
+      {
+        "beer": [
+          {
+            "Barrels/Kegs": {
+              "daily": 20,
+              "weekly": 200,
+              "Monthly": 1000
+            }
+          },
+          {
+            "Cider": {
+              "daily": 20,
+              "weekly": 200,
+              "Monthly": 1000
+            }
+          },
+          {
+            "Domestic": {
+              "daily": 20,
+              "weekly": 200,
+              "Monthly": 1000
+            }
+          },
+          {
+            "Gluten Free": {
+              "daily": 20,
+              "weekly": 200,
+              "Monthly": 1000
+            }
+          },
+          {
+            "Growler": {
+              "daily": 20,
+              "weekly": 200,
+              "Monthly": 1000
+            }
+          },
+          {
+            "Import craft": {
+              "daily": 20,
+              "weekly": 200,
+              "Monthly": 1000
+            }
+          },
+          {
+            "local": {
+              "daily": 20,
+              "weekly": 200,
+              "Monthly": 1000
+            }
+          },
+          {
+            "microbrew": {
+              "daily": 20,
+              "weekly": 200,
+              "Monthly": 1000
+            }
+          }
+        ]
+      },
+      {
+        "beverages non alc": [
+          {
+            "7-up": {
+              "daily": 20,
+              "weekly": 200,
+              "Monthly": 1000
+            }
+          },
+          {
+            "coca-cola": {
+              "daily": 20,
+              "weekly": 200,
+              "Monthly": 1000
+            }
+          },
+          {
+            "energy": {
+              "daily": 20,
+              "weekly": 200,
+              "Monthly": 1000
+            }
+          },
+          {
+            "juice": {
+              "daily": 20,
+              "weekly": 200,
+              "Monthly": 1000
+            }
+          },
+          {
+            "misc.none taxable": {
+              "daily": 20,
+              "weekly": 200,
+              "Monthly": 1000
+            }
+          },
+          {
+            "misc.taxable": {
+              "daily": 20,
+              "weekly": 200,
+              "Monthly": 1000
+            }
+          },
+          {
+            "pepsi": {
+              "daily": 20,
+              "weekly": 200,
+              "Monthly": 1000
+            }
+          },
+          {
+            "tea": {
+              "daily": 20,
+              "weekly": 200,
+              "Monthly": 1000
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
